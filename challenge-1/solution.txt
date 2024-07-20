@@ -1,0 +1,4 @@
+My solution included updating the code to work on terraform version: v1.8.5
+
+This version deprecated or directly deleted the structure provided in the challenge, I had to specify the source of the digital ocean provider and use "required_providers" on the terraform block.
+
